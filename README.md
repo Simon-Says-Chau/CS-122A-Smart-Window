@@ -1,1 +1,3 @@
 # CS-122A-Smart-Window
+
+I built an automatic/manual curtain roller that is determined by the amount of sunlight it detects.  For sunlight simulation, I used IR sensors and blocked them to simulate darkness.  The curtains/blinds should automatically adjust according to whether the IR sensor has a high value or a low value.  If the value is high, that simulates sunlight, and the curtains/blinds should rise to allow light into the house.  If the value is low, that simulate darkness, and the curtains/blinds should drop so people do not see into the house easily.  If set to become manual, the curtains/blinds will not move automatically and can be manually adjusted via keypad.  This project is in hopes of helping to save electricity by automatically providing natural light.
